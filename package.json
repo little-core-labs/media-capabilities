@@ -1,0 +1,22 @@
+{
+  "name": "media-capabilities",
+  "version": "0.0.1",
+  "description": "A convenient atomicized class containing insights into the host system's media processing capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-core-labs/media-capabilities.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/little-core-labs/media-capabilities/issues"
+  },
+  "homepage": "https://github.com/little-core-labs/media-capabilities#readme",
+  "dependencies": {
+    "systeminformation": "^4.16.0"
+  }
+}
