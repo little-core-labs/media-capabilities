@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/little-core-labs/media-capabilities#readme",
   "dependencies": {
-    "systeminformation": "^4.16.0"
+    "systeminformation": "^4.27.11"
   }
 }
